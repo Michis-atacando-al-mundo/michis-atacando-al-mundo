@@ -1,0 +1,26 @@
+body{
+text-align: center;   
+}
+h1{
+font-size: 40px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: 300;
+}
+#app{
+    background-color: #66bd87;
+} 
+#myCarousel
+{
+    background-color: rgba(189, 223, 220, 0.808);
+}
+#myCarousel img
+{
+height: 300px;
+margin-top: 35px;
+}
+.carousel-inner p
+{
+    margin-top: 15px;
+    color: rgba(177, 156, 235, 0.74);
+    font-size: 20px;
+}
